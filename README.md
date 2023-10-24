@@ -1,15 +1,25 @@
 # math_python
-Learning maths with Python/Học toán với Python
+Học toán lớp sáu với Python
 
-Mục tiêu: 
+Mục tiêu của project: 
 Diễn đạt và giải các bài tập trong chương trình toán lớp sáu bằng ngôn ngữ lập trình Python.
 
 Tại sao
 
-Thế giới thay đổi quá nhanh trong những năm gần đây.
+Trong những năm gần đây thế giới thay đổi rất nhanh.
+Tiến bộ nhanh nhất là trong lĩnh vực trí tuệ nhân tạo, trong đó máy tính được dùng để giúp đỡ con người trong rất nhiều hoạt động. 
+Kết hợp việc học toán và python, chúng tôi hy vọng một mũi tên hai con chim: 1) giúp học sinh hiểu rõ các khái niệm toán bằng cách chạy những đoạn mã đơn giản, 
+và 2) giúp học sinh làm quen với ngôn ngữ lập trình python, một ngôn ngữ thiết yếu để tiếp cận với những tiến bộ mới nhất. 
+Thông qua việc tương tác với máy tính trong việc học toán, giúp học sinh có những cảm nhận về những điểm mạnh và yếu của máy tính. Bắt đầu tương tác với python từ lớp sáu, chúng tôi hy vọng
+học sinh sẽ bớt bỡ ngỡ khi chính thức học khoa học máy tính ở các lớp sau.
+
+Project này khai thác nguồn lực miễn phí trên mạng Internet để phục vụ cho việc học: tri thức miễn phí và cơ sở hạ tầng miễn phí. 
+Tri thức miễn phí sẽ đến từ các tình nguyện viên, từ internet forums, chatgpt.
+Cơ sở hạ tầng miễn phí sẽ đến từ các nhà cung cấp dịch vụ điện toán đám mây như Google và Microsoft. Các nhà cung cấp dịch vụ này đang cung cấp miễn phí cơ sở hạ tầng: ai cũng có thể viết và chạy chương trình Python, chỉ cần có một máy tính và kết nối internet.
+
+Trong những năm gần đây, các công ty lớn như google, Microsoft đã cung cấp cơ sở
+
 Giao tiếp với máy tính bằng ngôn ngữ của máy là một trong những kỹ năng cần thiết.
-Tiếp cận những công nghệ mới nhất bằng những đoạn mã đơn giản nhất
-Hiểu những điểm mạnh và yếu của máy tính.
 Dùng máy tính như một công cụ học tập (và làm việc sau này).
 
 Khai thác nguồn lực miễn phí trên mạng internet để phục vụ việc học:
@@ -40,13 +50,13 @@ Hỗ trợ đa nền tảng: Python có sẵn cho nhiều hệ điều hành, ba
 
 Sáng tạo và sử dụng ngôn ngữ: Python thúc đẩy sự sáng tạo và dễ dàng thử nghiệm các ý tưởng mới, điều này đã dẫn đến nhiều dự án và sản phẩm xuất sắc.
 
-Hầu như tất cả những tiến bộ gần đây (2020s) trong trí tuệ nhân tạo đều được phát triển trên nền tảng Python.
+Hầu như tất cả những tiến bộ gần đây (2020s) trong trí tuệ nhân tạo đều được phát triển trên hệ sinh thái Python. 
 
 (ChatGPT, có chỉnh sửa cho phù hợp)
 
 Tại sao toán lớp sáu
-Tôi chọn toán lớp sáu như một điểm khởi đầu, vì toán lớp sáu bắt đầu bằng việc giới thiệu các khái niệm về tập hợp và số tự nhiên. Các khái niệm này là nền tảng quan trọng cho việc phát triển kỹ năng toán học cơ bản và tư duy logic. Đây cũng là những khái niệm khá quen thuộc trong Python.
-Lớp sáu không quá sớm để làm quen với Python.
+Chúng tôi chọn toán lớp sáu như một điểm khởi đầu, vì toán lớp sáu bắt đầu bằng việc giới thiệu các khái niệm về tập hợp và số tự nhiên. Các khái niệm này là nền tảng quan trọng cho việc phát triển kỹ năng toán học cơ bản và tư duy logic. Đây cũng là những khái niệm khá quen thuộc trong Python.
+Chúng tôi nghĩ rằng lớp sáu không quá sớm để làm quen với Python. Các đoạn mã python sẽ được viết đơn giản và bám sát vào các khái niệm toán được giảng dạy trên trường. 
 
 Công cụ cần thiết:
 1) Kết nối internet
