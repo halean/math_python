@@ -17,8 +17,6 @@ Project này khai thác nguồn lực miễn phí trên mạng Internet để ph
 Tri thức miễn phí sẽ đến từ các tình nguyện viên, từ internet forums, chatgpt.
 Cơ sở hạ tầng miễn phí sẽ đến từ các nhà cung cấp dịch vụ điện toán đám mây như Google và Microsoft. Các nhà cung cấp dịch vụ này đang cung cấp miễn phí cơ sở hạ tầng: ai cũng có thể viết và chạy chương trình Python, chỉ cần có một máy tính và kết nối internet.
 
-Trong những năm gần đây, các công ty lớn như google, Microsoft đã cung cấp cơ sở
-
 Giao tiếp với máy tính bằng ngôn ngữ của máy là một trong những kỹ năng cần thiết.
 Dùng máy tính như một công cụ học tập (và làm việc sau này).
 
@@ -31,6 +29,7 @@ ChatGPT có thể trả lời đúng cho các câu hỏi đơn giản.
 Cơ sở hạ tầng miễn phí:
 Các nhà cung cấp dịch vụ điện toán đám mây như Google và Microsoft cung cấp các dịch vụ miễn phí để bất kỳ ai cũng có thể viết và chạy trong trình duyệt web một cách nhanh chóng. 
 
+Project này lấy cảm hứng từ ý tưởng: Minimally Invasive Education
 
 Tại sao Python
 
@@ -56,8 +55,9 @@ Hầu như tất cả những tiến bộ gần đây (2020s) trong trí tuệ n
 
 Tại sao toán lớp sáu
 Chúng tôi chọn toán lớp sáu như một điểm khởi đầu, vì toán lớp sáu bắt đầu bằng việc giới thiệu các khái niệm về tập hợp và số tự nhiên. Các khái niệm này là nền tảng quan trọng cho việc phát triển kỹ năng toán học cơ bản và tư duy logic. Đây cũng là những khái niệm khá quen thuộc trong Python.
-Chúng tôi nghĩ rằng lớp sáu không quá sớm để làm quen với Python. Các đoạn mã python sẽ được viết đơn giản và bám sát vào các khái niệm toán được giảng dạy trên trường. 
+Chúng tôi nghĩ rằng lớp sáu không quá sớm để làm quen với Python. Các đoạn mã python sẽ được viết rất đơn giản và bám sát vào các khái niệm toán học được giảng dạy trên trường. 
 
 Công cụ cần thiết:
 1) Kết nối internet
 2) Máy tính có trình duyệt tương đối mới (Google Chrome, Micrsoft Edge, v.v...)
+
